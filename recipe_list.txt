@@ -1,1 +1,2 @@
-Slashdot.org
+natgeo.recipe
+nasa.recipe
